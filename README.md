@@ -37,7 +37,4 @@ Support multilingual news detection.
 
 Include title + body text fusion for improved accuracy.
 
-## 🧑‍💻 Developed By
-Mahalakshmi R
-B.Tech in Artificial Intelligence & Data Science
-Ramco Institute of Technology
+
